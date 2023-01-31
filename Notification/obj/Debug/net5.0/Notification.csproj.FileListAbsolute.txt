@@ -1,0 +1,12 @@
+E:\dotnet_apps\EKartNotification\Notification\bin\Debug\net5.0\Notification.deps.json
+E:\dotnet_apps\EKartNotification\Notification\bin\Debug\net5.0\Notification.dll
+E:\dotnet_apps\EKartNotification\Notification\bin\Debug\net5.0\ref\Notification.dll
+E:\dotnet_apps\EKartNotification\Notification\bin\Debug\net5.0\Notification.pdb
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\Notification.csprojAssemblyReference.cache
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\Notification.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\Notification.AssemblyInfoInputs.cache
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\Notification.AssemblyInfo.cs
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\Notification.csproj.CoreCompileInputs.cache
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\Notification.dll
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\ref\Notification.dll
+E:\dotnet_apps\EKartNotification\Notification\obj\Debug\net5.0\Notification.pdb
